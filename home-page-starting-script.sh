@@ -2,4 +2,4 @@
 
 
 cp index.html /var/www/html;
-cp -TRv pages /var/www/html;
+cp -Tv pages /var/www/html;
