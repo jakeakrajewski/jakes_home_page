@@ -1,0 +1,31 @@
+*{
+    
+}
+
+
+.page{
+    border: 2px solid black;
+    margin: 20px;
+    padding: 15px;
+}
+
+
+.ingredients {
+    margin: 20px;
+    
+
+
+
+}
+
+.ingredients_list {
+    margin: 40px;
+
+
+}
+
+.recipe_image img{
+    height:auto;
+    width: auto;
+    
+}
